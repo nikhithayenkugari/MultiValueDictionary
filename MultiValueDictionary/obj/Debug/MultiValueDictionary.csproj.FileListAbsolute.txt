@@ -1,0 +1,7 @@
+C:\Assessment\MultiValueDictionary\MultiValueDictionary\bin\Debug\MultiValueDictionary.exe.config
+C:\Assessment\MultiValueDictionary\MultiValueDictionary\bin\Debug\MultiValueDictionary.exe
+C:\Assessment\MultiValueDictionary\MultiValueDictionary\bin\Debug\MultiValueDictionary.pdb
+C:\Assessment\MultiValueDictionary\MultiValueDictionary\obj\Debug\MultiValueDictionary.csprojAssemblyReference.cache
+C:\Assessment\MultiValueDictionary\MultiValueDictionary\obj\Debug\MultiValueDictionary.csproj.CoreCompileInputs.cache
+C:\Assessment\MultiValueDictionary\MultiValueDictionary\obj\Debug\MultiValueDictionary.exe
+C:\Assessment\MultiValueDictionary\MultiValueDictionary\obj\Debug\MultiValueDictionary.pdb
